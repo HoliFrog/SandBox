@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdbntrsh
 kgedxchjgzkj
+=======
+sdbntrsh
+>>>>>>> f8f5ab7... 2
 =======
 sdbntrsh
 >>>>>>> f8f5ab7... 2
